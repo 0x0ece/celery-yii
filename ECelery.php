@@ -3,10 +3,10 @@
  * ECelery class file.
  *
  * @author Emanuele Cesena <ec@theneeds.com>
- * @version 0.1
+ * @version 0.2
  * @link https://github.com/ecesena/celery-yii
  * @copyright Copyright &copy; 2012 Emanuele Cesena
- * @license Beerware
+ * @license BSD 2-clause license
  */
 /*
  * Copyright (c) 2012, Emanuele Cesena <ec@theneeds.com>
